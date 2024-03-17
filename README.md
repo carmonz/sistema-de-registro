@@ -1,3 +1,3 @@
-<h1>Sitema de regisito</h1>
+<h1>Sitema de registro</h1>
 
 -Pagina en construcción.
